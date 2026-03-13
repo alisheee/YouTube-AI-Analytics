@@ -28,7 +28,7 @@ User asks:
 
 Assistant returns:
 
-<img width="639" height="739" alt="Image" src="https://github.com/user-attachments/assets/ca8a1d3c-1515-4053-909b-7bed0d154963" />
+<img width="639" height="739" alt="Image" src="https://drive.google.com/file/d/1RxRg4XHlmF_YzIKBSBXndaxpxnehYGHn/view?usp=sharing" />
 
 
 💡 **Insight**
