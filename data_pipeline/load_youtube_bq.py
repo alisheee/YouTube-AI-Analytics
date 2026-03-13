@@ -48,10 +48,8 @@ youtube_analytics = build("youtubeAnalytics", "v2", credentials=creds)
 bq_client = get_bq_client(BQ_KEY_PATH, PROJECT_ID)
 
 # -----------------------------
-# Тут вставляємо весь код збору 5 таблиць
 # videos_df, overview_df, traffic_df, geo_df, device_df
 # -----------------------------
-# Після формування кожного DataFrame:
 # load_df_to_bq(bq_client, videos_df, DATASET, "raw_videos")
 # load_df_to_bq(bq_client, overview_df, DATASET, "raw_channel_overview")
 # load_df_to_bq(bq_client, traffic_df, DATASET, "raw_traffic")
