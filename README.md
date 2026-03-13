@@ -28,11 +28,8 @@ User asks:
 
 Assistant returns:
 
-| Rank | Title                   | Views  |
-| ---- | ----------------------- | ------ |
-| 1    | grave — kyszenn         | 31,321 |
-| 2    | Instupendo — Evangelion | 15,658 |
-| 3    | Bleach Quotes           | 12,886 |
+<img width="639" height="739" alt="Image" src="https://github.com/user-attachments/assets/ca8a1d3c-1515-4053-909b-7bed0d154963" />
+
 
 💡 **Insight**
 
