@@ -14,7 +14,6 @@ def generate_sql(question: str):
 
     sql = response.choices[0].message.content.strip()
 
-    # 🔥 Видаляємо markdown якщо модель його додала
     if sql.startswith("```"):
         sql = sql.replace("```sql", "")
         sql = sql.replace("```", "")
