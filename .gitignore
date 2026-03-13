@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+
+# Streamlit / logs
+*.log
+
+# BigQuery / credentials
+key_YT.json
+OpenAI.json
+credentials_oauth.json
+token.json
+
+# IDEs
+.vscode/
+.idea/
