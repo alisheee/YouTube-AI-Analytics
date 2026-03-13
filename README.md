@@ -250,9 +250,10 @@ streamlit run data_pipeline/app.py
 You need to provide your own credentials:
 
 ```
-OpenAI.json
 key_YT.json
+OpenAI.json
 credentials_oauth.json
+token.json
 ```
 
 These files contain API keys and **must not be uploaded to GitHub**.
