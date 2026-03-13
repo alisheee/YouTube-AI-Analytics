@@ -28,7 +28,7 @@ User asks:
 
 Assistant returns:
 
-<img width="639" height="739" alt="Image" src="https://drive.google.com/file/d/1RxRg4XHlmF_YzIKBSBXndaxpxnehYGHn/view?usp=sharing" />
+<img width="639" height="739" alt="Image" src="data_pipeline/screen" />
 
 
 💡 **Insight**
